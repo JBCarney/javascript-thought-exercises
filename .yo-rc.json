@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Jason Carney",
+      "authorEmail": "jason@jbcarney.com",
+      "authorUrl": "https://github.com/JBCarney"
+    }
+  }
+}
